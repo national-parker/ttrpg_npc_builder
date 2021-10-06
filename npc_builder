@@ -1,8 +1,10 @@
 #Nat'l Parks' NPC generator
 #this was programed in python 3.9.4
 '''this NPC generator is meant to help with quick NPC generation, putting out a
-couple of NPCs with description, motivation, and characteristics, not stats aside
+couple of NPCs with description and characteristics, not stats aside
 from a high stat/low stat for physical description.'''
+#high stat/low stat DONE
+#motivations tbd
 
 '''core archetecture is going to be basic: lists of traits and random selection
 among them.  i may revisit if/when i have more skill.
